@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="38-rest-ws-solution" />
         <module name="16-annotations" />
+        <module name="jdbc-boot" />
         <module name="16-annotations-solution" />
         <module name="36-mvc-solution" />
         <module name="26-jdbc-solution" />
@@ -73,6 +74,7 @@
       <module name="42-security-rest-solution" options="-parameters" />
       <module name="44-actuator" options="-parameters" />
       <module name="44-actuator-solution" options="-parameters" />
+      <module name="jdbc-boot" options="-parameters" />
       <module name="parentProject" options="-parameters" />
     </option>
   </component>
